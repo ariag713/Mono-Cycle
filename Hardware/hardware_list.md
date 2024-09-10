@@ -1,6 +1,7 @@
 *Here is the list for the Hardware component*
 # Hardware
 * Measurement: 20inchs height
+* jump wires, if is required...
 
 
 ## Not defined items

@@ -9,6 +9,7 @@
 * RC Joystick
 * RC Microcontroller
 * RC Transceiver
+* PCB
 
 ### Craft
 * Battery
@@ -18,3 +19,4 @@
   * Tilt
   * Roll
 * Transciever
+* PCB

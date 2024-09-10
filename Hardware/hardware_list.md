@@ -18,6 +18,7 @@
   * ESC?
 * DC Motor
   * Tilt
+    * Gyrospcopic actuator?
   * Roll
 * Transciever
 * PCB

@@ -1,2 +1,2 @@
-**** Here is the list for the Hardware component
-* Hardware
+*/Here is the list for the Hardware component/*
+# Hardware

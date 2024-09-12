@@ -14,11 +14,15 @@
 
 ### Craft
 * Battery
+  * Li battery
 * Microcontroller
-  * ESC?
+  * arduino
+  * St32
 * DC Motor
+  * 
   * Tilt
     * Gyrospcopic actuator?
+    * fly wheel?
   * Roll
 * Transciever
 * PCB

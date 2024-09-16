@@ -1,1 +1,29 @@
 
+RC
+* RC Battery holder
+* RC Joystick
+* RC Microcontroller
+* RC Transceiver
+* Crystal oscillator
+* PCB
+
+### Craft
+* Battery
+  * Li battery
+* Microcontroller
+  * arduino
+  * St32
+* DC Motor
+  * AutoTool Home DC Motor Brushed
+     * Model#: JYCRS390H
+     * Manufacturer: JYC Internation Trade Co. Ltd
+  * Tilt
+    * Gyrospcopic actuator
+    * fly wheel?
+  * Roll
+* Transciever
+* PCB
+* Crystal oscillator
+* capacitors
+* resistors
+* diode LED

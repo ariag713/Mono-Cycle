@@ -19,7 +19,9 @@
   * arduino
   * St32
 * DC Motor
-  * 
+  * AutoTool Home DC Motor Brushed
+     * Model#: JYCRS390H
+     * Manufacturer: JYC Internation Trade Co. Ltd
   * Tilt
     * Gyrospcopic actuator?
     * fly wheel?

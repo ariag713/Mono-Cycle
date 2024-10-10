@@ -28,4 +28,5 @@
     * fly wheel?
   * Roll
 * Transciever
+   * HC-05 Bluetooth Module
 * PCB

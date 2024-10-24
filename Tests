@@ -1,0 +1,50 @@
+Tests for Mono-Cycle Design:
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Test 1: Motor Control Response:
+  Goal: Verify that the Arduino correctly controls the motor speed and direction based on input commands from the remote controller.
+
+    * Given the monowheel is powered on and the controller is connected,
+    * When a forward command is sent from the controller,
+    * Then the motor should turn in the forward direction and increase speed proportionally to the signal received.
+  Test Method:
+    * Connect the Arduino to the motor and remote controller.
+    * Send a series of forward commands and measure motor speed using a tachometer or RPM sensor.
+    * Compare the speed values against expected outcomes for different signal strengths.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Test 2: Turning Radius and Control:
+  Goal: Verify that the monowheel can execute controlled turns in response to steering commands and ensure the turning radius is within design specifications.
+
+    * Given the monowheel is in motion,
+    * When a left or right turn command is sent from the remote controller,
+    * Then the monowheel should execute a smooth turn with a turning radius that matches the design specification (e.g., 1 meter).
+  Test Method:
+    * Drive the monowheel in a straight path and then initiate turning commands.
+    * Measure the turning radius and check for any signs of instability or delayed responses.
+    * Repeat for both left and right turns.
+    * When a sensor (e.g., gyroscope) malfunctions or a signal is temporarily lost,
+    * Then the monowheel should either maintain basic operation or trigger a safe stop mode to prevent accidents.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Test 3: Fault Tolerance and Error Recovery:
+  Goal: Ensure the monowheel can handle minor system failures (e.g., sensor disconnection, temporary signal loss) without crashing or completely shutting down.
+
+    * Given the monowheel is running normally,
+    * When a sensor (e.g., gyroscope) malfunctions or a signal is temporarily lost,
+    * Then the monowheel should either maintain basic operation or trigger a safe stop mode to prevent accidents.
+Test Method:
+    * Introduce failures such as disconnecting a sensor or briefly cutting off the control signal.
+    * Observe how the system handles the failure, including whether it continues operating safely or triggers a shutdown procedure.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Test 4: Temperature and Environmental Durability:
+  Goal: Test how the monowheel performs under different environmental conditions, particularly in response to temperature changes.
+
+    * Given the monowheel is operating in different environmental conditions (e.g., hot, cold, or humid environments),
+    * When the temperature reaches extremes (e.g., 0°C to 40°C),
+    * Then the monowheel should continue functioning without overheating, component failure, or performance degradation.
+  Test Method:
+    * Expose the monowheel to different temperature conditions using a controlled environment (e.g., outdoor testing in cold weather).
+    * Monitor the performance of motors, sensors, and the Arduino.
+    * Measure whether the system maintains balance and responsiveness, and ensure components do not overheat or fail.
+---------------------------------------------------------------------------------------------------------------------------------------------------------

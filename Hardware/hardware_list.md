@@ -33,4 +33,4 @@
     * Gyrospcopic actuator?
   * Roll
 * Transciever
-   * HC-05 Bluetooth Module
+   * [HC-05 Bluetooth Module](Datasheets/HC-05 Datasheet.pdf)

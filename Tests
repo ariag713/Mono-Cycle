@@ -24,20 +24,8 @@ Test 2: Turning Radius and Control:
     * Repeat for both left and right turns.
     * When a sensor (e.g., gyroscope) malfunctions or a signal is temporarily lost,
     * Then the monowheel should either maintain basic operation or trigger a safe stop mode to prevent accidents.
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Test 3: Fault Tolerance and Error Recovery:
-  Goal: Ensure the monowheel can handle minor system failures (e.g., sensor disconnection, temporary signal loss) without crashing or completely shutting down.
-
-    * Given the monowheel is running normally,
-    * When a sensor (e.g., gyroscope) malfunctions or a signal is temporarily lost,
-    * Then the monowheel should either maintain basic operation or trigger a safe stop mode to prevent accidents.
-Test Method:
-    * Introduce failures such as disconnecting a sensor or briefly cutting off the control signal.
-    * Observe how the system handles the failure, including whether it continues operating safely or triggers a shutdown procedure.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
-Test 4: Temperature and Environmental Durability:
+Test 3: Temperature and Environmental Durability:
   Goal: Test how the monowheel performs under different environmental conditions, particularly in response to temperature changes.
 
     * Given the monowheel is operating in different environmental conditions (e.g., hot, cold, or humid environments),

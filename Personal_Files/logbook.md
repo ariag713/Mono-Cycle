@@ -24,7 +24,9 @@
 
 11/04/24 - Implementation of an HC-05 Arduino Bluetooth module to control the 
            motors wirelessly with an application.
+           - running a code for implementing the the ls298n driver to allow the PWM functionality of the dc motors
            
 11/10/24 - Starting tests with the HC-05, configuring the serial of the module and the Arduino.
-           - 
+           - Ran a functionality test on the module, however. we ran into problems  with the booster not supplying enough current
+           - possibly replacing the battery supply with a higher current battery 
 

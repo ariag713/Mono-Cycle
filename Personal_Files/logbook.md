@@ -26,5 +26,5 @@
            motors wirelessly with an application.
            
 11/10/24 - Starting tests with the HC-05, configuring the serial of the module and the Arduino.
+           - 
 
-11/13/24 -

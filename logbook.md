@@ -28,5 +28,5 @@
            
 11/10/24 - Starting tests with the HC-05, configuring the serial of the module and the Arduino.
            - Ran a functionality test on the module, however. we ran into problems  with the booster not supplying enough current
-           - possibly replacing the battery supply with a higher current battery 
+           - possibly replacing the battery supply with a higher current battery (6 AA batterys in series)
 

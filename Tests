@@ -1,6 +1,6 @@
 Tests for Mono-Cycle Design:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Test 1: Motor Control Response:
+Test 1: Motor Control Response:  VERIFIED
   Goal: Verify that the Arduino correctly controls the motor speed and direction based on input commands from the remote controller.
 
     * Given the monowheel is powered on and the controller is connected,

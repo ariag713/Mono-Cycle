@@ -2,7 +2,6 @@ Tests for Mono-Cycle Design:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Test 1: Motor Control Response:  ----VERIFIED----
   Goal: Verify that the Arduino correctly controls the motor speed and direction based on input commands from the remote controller.
-
     * Given the monowheel is powered on and the controller is connected,
     * When a forward command is sent from the controller,
     * Then the motor should turn in the forward direction and increase speed proportionally to the signal received.
@@ -12,9 +11,8 @@ Test 1: Motor Control Response:  ----VERIFIED----
     * Compare the speed values against expected outcomes for different signal strengths.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Test 2: Turning Radius and Control: 
+Test 2: Turning Radius and Control: ----NOT YET VERIFIED----
   Goal: Verify that the monowheel can execute controlled turns in response to steering commands and ensure the turning radius is within design specifications.
-
     * Given the monowheel is in motion,
     * When a left or right turn command is sent from the remote controller,
     * Then the monowheel should execute a smooth turn with a turning radius that matches the design specification (e.g., 1 meter).
@@ -25,9 +23,8 @@ Test 2: Turning Radius and Control:
     * When a sensor (e.g., gyroscope) malfunctions or a signal is temporarily lost,
     * Then the monowheel should either maintain basic operation or trigger a safe stop mode to prevent accidents.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Test 3: Temperature and Environmental Durability:
+Test 3: Temperature and Environmental Durability: ----NOT YET VERIFIED----
   Goal: Test how the monowheel performs under different environmental conditions, particularly in response to temperature changes.
-
     * Given the monowheel is operating in different environmental conditions (e.g., hot, cold, or humid environments),
     * When the temperature reaches extremes (e.g., 0°C to 40°C),
     * Then the monowheel should continue functioning without overheating, component failure, or performance degradation.

@@ -13,8 +13,7 @@
 - Schematic for the microcontroller created 
 
 **09/27/24**
-- DC motors and H-bridge motor driver were purchased and arrived for     
-           implementation into the microcontroller for testing.
+- DC motors and H-bridge motor driver were purchased and arrived for implementation into the microcontroller for testing.
            
 **10/08/24**
 - Started testing the basic movements of the motors to see if they function (forward, backward, turning left, and right) using a serial monitor.
@@ -45,13 +44,15 @@
 - To supply the motor driver with enough current, the power supply will be replaced with a alternate battery pack of 6 AA batteries
    
 **11/19/24**
-- After some reviewing, we will attach a gear box to the DC motor to slow down the monowheel so it does not move too fast. Which results in the redesign of the housing to fit this geared motor.
-
+- After some reviewing, we will order and attach a gear box to the DC motor to slow down the monowheel with better speed control.
+- Resulting in the redesign of the housing to fit this geared motor.
 
 **11/26/24 to 11/28/24**
 - Monowheel design housing is 3d printed into modular parts for ease of access and troubleshooting
 - The report for the Monowheel was created and worked on slightly (to be continued until full assembly of Monowheel)
+  
+**12/03/24 to 12/10/24**
+- the gearbox motors arrive on time for us to execute our final prototype
+- We then utilize the soldering station in the MakerSpace to do some final assembly the Monowheel construct
+- Upon noticing some error in the code we troubleshoot the issue put the new code into practice
 
-**12/03/24**
-
-**12/10/24**

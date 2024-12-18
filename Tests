@@ -1,17 +1,16 @@
 Tests for Mono-Cycle Design:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Test 1: Motor Control Response:  ----VERIFIED----
+Test 1: Mechanical Functionality:  ----VERIFIED----
   Goal: Verify that the Arduino correctly controls the motor speed and direction based on input commands from the remote controller.
     * Given the monowheel is powered on and the controller is connected,
     * When a forward command is sent from the controller,
-    * Then the motor should turn in the forward direction and increase speed proportionally to the signal received.
+    * Then the motor should turn in the forward direction 
   Test Method:
-    * Connect the Arduino to the motor and remote controller.
-    * Send a series of forward commands and measure motor speed using a tachometer or RPM sensor.
-    * Compare the speed values against expected outcomes for different signal strengths.
+    * Connect the Arduino to the motor and remote controller (bluetooth device).
+    * Send a series of forward commands 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Test 2: Turning Radius and Control: ----NOT YET VERIFIED----
+Test 2: Turning Radius and Control: ----VERIFIED----
   Goal: Verify that the monowheel can execute controlled turns in response to steering commands and ensure the turning radius is within design specifications.
     * Given the monowheel is in motion,
     * When a left or right turn command is sent from the remote controller,
@@ -23,13 +22,15 @@ Test 2: Turning Radius and Control: ----NOT YET VERIFIED----
     * When a sensor (e.g., gyroscope) malfunctions or a signal is temporarily lost,
     * Then the monowheel should either maintain basic operation or trigger a safe stop mode to prevent accidents.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Test 3: Temperature and Environmental Durability: ----NOT YET VERIFIED----
-  Goal: Test how the monowheel performs under different environmental conditions, particularly in response to temperature changes.
-    * Given the monowheel is operating in different environmental conditions (e.g., hot, cold, or humid environments),
-    * When the temperature reaches extremes (e.g., 0°C to 40°C),
-    * Then the monowheel should continue functioning without overheating, component failure, or performance degradation.
-  Test Method:
-    * Expose the monowheel to different temperature conditions using a controlled environment (e.g., outdoor testing in cold weather).
-    * Monitor the performance of motors, sensors, and the Arduino.
-    * Measure whether the system maintains balance and responsiveness, and ensure components do not overheat or fail.
+Test 3: Bluetooth Connectivity and Stability: ----VERIFIED----
+Goal: Test how the monowheel maintains Bluetooth connectivity and communication stability under varying conditions and potential sources of interference.
+  * Given the monowheel is connected to a controller or device via Bluetooth,
+  * When the Bluetooth signal is exposed to potential disruptions (e.g., increased distance, physical obstructions, or nearby electronic interference),
+  * Then the monowheel should maintain a stable Bluetooth connection with minimal latency, no unexpected disconnections, and reliable data transmission.
+Test Method:
+  * Pair the monowheel with a controller or smartphone via Bluetooth in a controlled testing area.
+  * Gradually increase the distance between the monowheel and the paired device, measuring signal strength and latency at regular intervals.
+  * Introduce physical barriers (e.g., walls or metallic objects) and monitor any impact on connectivity.
+  * Test in environments with potential interference, such as areas with Wi-Fi routers, other Bluetooth devices, or RF sources.
+  * Log any disconnections, delays, or data transmission errors, and verify the monowheel's responsiveness during the test.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------

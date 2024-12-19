@@ -8,8 +8,10 @@
   * [Mobile device with access to Arduino Bluetooth Controller](https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control&pcampaignid=web_share)
 * Housing:
   * [3d printed - using whole roll of filament](https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Cardboard/dp/B0BM739JRF/ref=sr_1_6?crid=S082LBTDFS9X&dib=eyJ2IjoiMSJ9.5tLCeQfwKQ0teRv7IBpBXGuYVv1TVcVi7GvdBKkLsCOjqJKBmr_rc1za0Cv1Wj3zPQ6BVijdqY501zf7J_vsSp6MZnOHxqlu5eIhVSEnRINLncWLwebJuXzSrJXjowoOJaviXszQeSv5r-P54zHChjinO9ebXMy5IJIcaRS9kHPyZHj3oLpKmHNlt7XgBgwdCLEO5dIdYJ6WMognhub_wd4g2OLAWM28DWHVKiZwRvI.x7qIT35L-8LQMn4EGlD3eTikHKIu7VbsKsaq4K_jLuA&dib_tag=se&keywords=3d+printer+filament&qid=1734471831&sprefix=filament+filament%2Caps%2C150&sr=8-6) -price: $13.99
-* Battery:
+* Power Supply:
+ * Primary: 
   * [6 AA battery pack](https://www.amazon.com/Coppertop-Batteries-Ingredients-Long-lasting-Household/dp/B000IZQO7U/ref=sr_1_5?crid=3S5BAUE5T7FSU&dib=eyJ2IjoiMSJ9.bVDHrtnE9UWilTlB-nv1XPqOW_2BDVUEJAEK28lWbTuaiL71894bdpP0XYxlj_vID5C_zfwT1bF6L3mKBXlIyW3kojX1ZYcHiT7zt7BQaV8MR6JHBxYa90mEUo6VvDsiIfUs9aTfEpzmkrjT6YI7IaC7wXuHxjVbNWjanX6I24y7ykyRreWgHYHZ5WsinXlBK6gRiPJXtMm2Xaowu4z8N3MyIWJHOAie_tYzmduR1efr0OpEaQ59lOj5OWdVEMoO5N7pcDWpGtNTZR4efWcbubhGzmP2YwOmZz-aSOGLIZWuwP4O3QzqMjZdtU8kmKVrst6XmG6TjuhfJbPdU6CckaZg4eR4kizAjvweMGfL07rhEMUo6nyqGOw9i-e9cDu3tjUOpoN8z5jfEgDih04IlWrm1SeELYKUgtpSagr4tzCYxHZKjLGZWWvSJxzJ3fp1.f9kQ39cQRXraN2hrCwe6LfqLKqh21wOLXnFJGFakTjE&dib_tag=se&keywords=6%2Baa%2Bbattery&qid=1734471991&sprefix=%2Caps%2C141&sr=8-5&th=1) - price: $7.29
+ * Secondary:
   * [Li battery pack for boost module and recharging](https://www.amazon.com/Replacement-Bluetooth-Controller-Generation-Playstation-4/dp/B07K8C6HGT/ref=sr_1_9?dib=eyJ2IjoiMSJ9.QxaPkV_4z410LFqhiLNiPWAU3djl3-SAelRUanhksM_aYPck2aOoRgtP4uLDkBtDijTd8r_ZiwP0CZMcxLyp7YI6b4zkJpu4lKw7NohUHlcakQTjQXaVSnC6LeNH2PHvHyPLyEtM5bXEg-oYPN4kAUoL2kuMvZzSFwGjpee9Lry3cMlJuXlmdjLnzCuk9LzWmK34kcKb5jie_E-4ypsfSNfBpZf0Bz8TbmrL6cczIs4.UvVvz6K0k32QPR3aFHlU7NhBFjVZURl4Nn1q62caquk&dib_tag=se&hvadid=178362145328&hvdev=c&hvlocphy=9003469&hvnetw=g&hvqmt=e&hvrand=14561468711904660820&hvtargid=kwd-131519055404&hydadcr=26646_9642606&keywords=ps4%2Bcontroller%2Bbattery%2Breplacement&qid=1734471889&sr=8-9&th=1) - price: $ 13.39
     
 * Boost Module:

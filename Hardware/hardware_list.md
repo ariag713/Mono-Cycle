@@ -1,18 +1,12 @@
 *Here is the list for the Hardware component*
 # Hardware
-* Measurement: 20inchs height
-* jump wires, if is required...
-
-
-
-### What is needed
-* RC Battery
-* RC Joystick
-* RC Microcontroller
-* RC Transceiver
-* PCB
+* Measurement: 20 inchs height
+* Jump wires and solid core wires
+* 
 
 ### Craft
+* Controller
+  * [Mobile device with access to Arduino Bluetooth Controller](https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control&pcampaignid=web_share)
 * Housing:
   * [3d printed - using whole roll of filament](https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Cardboard/dp/B0BM739JRF/ref=sr_1_6?crid=S082LBTDFS9X&dib=eyJ2IjoiMSJ9.5tLCeQfwKQ0teRv7IBpBXGuYVv1TVcVi7GvdBKkLsCOjqJKBmr_rc1za0Cv1Wj3zPQ6BVijdqY501zf7J_vsSp6MZnOHxqlu5eIhVSEnRINLncWLwebJuXzSrJXjowoOJaviXszQeSv5r-P54zHChjinO9ebXMy5IJIcaRS9kHPyZHj3oLpKmHNlt7XgBgwdCLEO5dIdYJ6WMognhub_wd4g2OLAWM28DWHVKiZwRvI.x7qIT35L-8LQMn4EGlD3eTikHKIu7VbsKsaq4K_jLuA&dib_tag=se&keywords=3d+printer+filament&qid=1734471831&sprefix=filament+filament%2Caps%2C150&sr=8-6) -price: $13.99
 * Battery:
@@ -30,8 +24,13 @@
 * Microcontroller:
   * [Arduino Uno R3](Datasheets/ArduinoR3-datasheet.pdf) -price: 16.99
 * DC Motor:
-   * [130 DC motor with gearbox](https://www.amazon.com/dp/B08CMPBXNL?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) - price: 9.99
- 
+   * [DC motor with gearbox](https://www.amazon.com/dp/B08CMPBXNL?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) - price: 9.99
+    * Specifications:
+     *  Brand: 	‎Gebildet
+     * Weight: 8.47 Ounces
+     * Dimmensions: 0.86"W x 0.86"H
+     * Operating voltage: 3V~12VDC
+     * Type: 1:48 gear ratio
 * Transciever
    * [HC-05 Bluetooth Module](Datasheets/HC-05_Datasheet.pdf) - price: $9.99
   

@@ -56,3 +56,8 @@
 - We then utilize the soldering station in the MakerSpace to do some final assembly the Monowheel construct
 - Upon noticing some error in the code we troubleshoot the issue put the new code into practice
 
+**12/17/24**
+- Monowheel is fully assembled and after testing it passes all of them without any issue
+  * Test 1 : Mechanical Functionality:  ----PASS----
+  * Test 2 : Turning Radius and Control: ----PASS----
+  * Test 3 : Bluetooth Connectivity and Stability: ----PASS----

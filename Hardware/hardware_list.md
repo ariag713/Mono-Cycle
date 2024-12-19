@@ -2,7 +2,6 @@
 # Hardware
 * Measurement: 20 inchs height
 * Jump wires and solid core wires
-* 
 
 ### Craft
 * Controller

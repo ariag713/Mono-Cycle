@@ -1,19 +1,19 @@
 The moving parts that we will use are:
-###Main Wheel
-The wheel is the primary moving part and serves as the foundation for the monowheel's motion. It must be designed or selected with appropriate dimensions, weight, and material to balance durability and efficiency.
-Functionality:
-- It facilitates forward and backward motion.
-- Ensures stability while supporting the overall structure of the monowheel.
-Design Considerations:
-- Material (e.g., rubber for grip, lightweight alloys for durability).
-- Diameter and width to maintain stability and maneuverability.
-- Friction and wear resistance for extended operation.
-### 2. Gear Mechanism
-- Gears are integral to transferring rotational motion from the motor to the wheel. They ensure controlled and efficient power transmission.
-Functionality:
-- Converts the motor's high-speed, low-torque rotation into a slower, higher-torque motion suitable for the wheel.
-- Provides precise speed and direction control.
-Design Considerations:
-- Gear ratio to balance speed and torque.
-- Type of gears (e.g., spur, bevel, or helical gears) depending on the spatial arrangement and force requirements.
-= Material selection to handle the stress and reduce noise.
+1. Main Wheel
+  - The wheel is the primary moving part and serves as the foundation for the monowheel's motion. It must be designed or selected with appropriate dimensions, weight, and material to balance durability and efficiency.
+  Functionality:
+  - It facilitates forward and backward motion.
+  - Ensures stability while supporting the overall structure of the monowheel.
+  Design Considerations:
+  - Material (e.g., rubber for grip, lightweight alloys for durability).
+  - Diameter and width to maintain stability and maneuverability.
+  - Friction and wear resistance for extended operation.
+2. Gear Mechanism
+  - Gears are integral to transferring rotational motion from the motor to the wheel. They ensure controlled and efficient power transmission.
+  Functionality:
+  - Converts the motor's high-speed, low-torque rotation into a slower, higher-torque motion suitable for the wheel.
+  - Provides precise speed and direction control.
+  Design Considerations:
+  - Gear ratio to balance speed and torque.
+  - Type of gears (e.g., spur, bevel, or helical gears) depending on the spatial arrangement and force requirements.
+  - Material selection to handle the stress and reduce noise.

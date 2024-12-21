@@ -27,7 +27,7 @@
 - Integrated the booster module into the circuit to raise the voltage to 10V using a voltage regulator. Also connected a battery charger to streamline the power supply system.
 
 ### **10/29/24**
-- Began the look-like design phase in SolidWorks, focusing on creating a model that resembles the final product. Continued material selection for construction and assembly.
+- Began the look-like design phase in Autodesk Fusion, focusing on creating a model that resembles the final product. Continued material selection for construction and assembly.
 
 ### **11/04/24**
 - Implemented the HC-05 Bluetooth module with Arduino for wireless motor control. Wrote and ran code to integrate the L298N motor driver, enabling PWM control for precise motor speed adjustments.
@@ -57,4 +57,6 @@
   - **Test 1: Mechanical Functionality** ---- PASS ----
   - **Test 2: Turning Radius and Control** ---- PASS ----
   - **Test 3: Bluetooth Connectivity and Stability** ---- PASS ----
+- Final prototype successfully meets project goals and specifications.
+
 
